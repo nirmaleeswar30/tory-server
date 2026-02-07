@@ -372,3 +372,5 @@ app.use('/', (req, res) => {
 const PORT = process.env.PORT || 8080;
 console.log('Listening on PORT : ', PORT);
 app.listen(PORT);
+
+module.exports = app;
