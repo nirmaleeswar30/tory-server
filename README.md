@@ -135,17 +135,15 @@ $ /api/nyaasi/jujutsu kaisen/2
 ## Want to Try api ?
 
 ```
-https://torrents-api.ryukme.repl.co/api/{website}/{query}/{page(optional)}
+https://tory-server.vercel.app/api/{website}/{query}/{page(optional)}
 ```
 
 ```
-https://torrents-api.ryukme.repl.co/api/nyaasi/jujutsu kaisen/2
+https://tory-server.vercel.app/api/nyaasi/jujutsu kaisen/2
 ```
 
 ---
 
-#### You can fork the repo and deploy on VPS or deploy it on Heroku :)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+#### You can fork the repo and deploy on VPS or deploy it on Vercel :)
 
 ---
