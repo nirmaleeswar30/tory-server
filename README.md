@@ -1,4 +1,4 @@
-# Torrents Api ✨
+# Tory Api ✨
 
 > API for scraping torrents from 1337x, Piratebay, Eztv, Nyaasi, Torlock, YTS, Torrent Galaxy, Rarbg, Zooqle, KickAss, Bitsearch, Glodls, MagnetDL, LimeTorrent, TorrentFunk, TorrentProject and Ettv
 
@@ -13,14 +13,15 @@
 
 ```sh
 
-# Clone the repo
-$ git clone https://github.com/Ryuk-me/Torrents-Api
+# Clone and start the tory-server backend
+git clone https://github.com/nirmaleeswar30/tory-server.git
 
-# Install Depedencies
-$ npm install
+cd tory-server
 
-# Start the server
-$ npm start
+npm install
+
+npm start
+# Runs on http://localhost:8080
 
 ```
 
